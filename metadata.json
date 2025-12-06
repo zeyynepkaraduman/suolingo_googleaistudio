@@ -1,0 +1,8 @@
+{
+  "name": "Suolingo",
+  "description": "An advanced language learning companion featuring Speech-to-Text, Text-to-Speech, and Real-time Live Conversational AI using Gemini 2.5.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
